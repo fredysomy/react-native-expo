@@ -1,0 +1,12 @@
+{
+  "name": "react-native-gitpod",
+  "displayName": "react-native-gitpod",
+  "expo": {
+    "name": "react-native-gitpod",
+    "slug": "react-native-gitpod",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
