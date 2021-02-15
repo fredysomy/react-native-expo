@@ -1,4 +1,4 @@
-# react-native-expo
+
 ## Template repo for React Native expo
 
 ### Whats the use.
